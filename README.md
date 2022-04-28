@@ -42,7 +42,7 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. We will use OpenZe
 
 - *Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.*
 
-[BuyTokens.wmv](./Images/BuyTokens.wmv)
+[BuyTokens.wmv](./Images/BuyTokens.wmv.mov)
 
 ![Gnache.PNG](./Images/Gnache.PNG)
 
