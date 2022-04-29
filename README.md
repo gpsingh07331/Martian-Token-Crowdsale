@@ -28,21 +28,21 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. We will use OpenZe
 
 *****Deploy the CrowdsaleSaleDeployer:*****
 
-*****[DeployKaseiCrowdsaleDeployer.wmv](./Images/DeployKaseiCrowdsaleDeployer.wmv)*****
+*****[DeployKaseiCrowdsaleDeployer](./Images/DeployKaseiCrowdsaleDeployer.mp4)*****
 
 *****Link Addresses to Contracts :*****
 
-*****[LinkAddresses.wmv](./Images/LinkAddresses.wmv)*****
+*****[LinkAddresses](./Images/LinkAddresses.mp4)*****
 
 *Deploy Contracts Visuals:*
 
-[DeployedContracts.wmv](./Images/DeployedContracts.wmv)
+[DeployedContracts](./Images/DeployedContracts.mp4)
 
 ### Usage
 
 - *Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.*
 
-[BuyTokens.wmv](./Images/BuyTokens.wmv.mov)
+[BuyTokens](./Images/BuyTokens.mp4)
 
 ![Gnache.PNG](./Images/Gnache.PNG)
 
